@@ -4,7 +4,7 @@ using namespace std;
 #include "bintree_eda.h"
 
 /*
-Tema:1
+Tema:1 TAIS
 Problema 1  Esta el arbol equilibrado?
 Autor: Luis Alberto Jaramillo Pulido
 team: TAIS36
